@@ -1,3 +1,5 @@
+      //MAP
+
 
       $(document).ready (function(){
 
@@ -7,5 +9,12 @@
 
       })
 
+
+      // FOOTER
+
+
        document.getElementById('year').textContent = new Date().getFullYear();
        document.getElementById('year').style.color = "#00F704";
+
+
+       
